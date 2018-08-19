@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <!-- Parameters used by tests at runtime -->  
+  <TestRunParameters>  
+    <Parameter name="AzureRedisHostName" value="your-azure-redis-service-host-name" />
+    <Parameter name="AzureRedisHostNameWithPort" value="your-azure-redis-service-host-name-with-port-included" />
+    <Parameter name="AzureRedisPrimaryKey" value="your-azure-redis-service-primary-key" />
+    <Parameter name="AzureRedisPrimaryConnectionString" value="your-azure-redis-service-primary-connection-string" />
+  </TestRunParameters> 
+</RunSettings>
